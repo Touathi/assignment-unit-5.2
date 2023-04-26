@@ -4,10 +4,12 @@ header {
     text-align: center;
 }
 
+body {
+    margin: 0px;
+    background-image: url(record.png);
+    background-repeat: inherit;
+}   
 main {
     background-color: lightgrey;
-}
-
-body {
-    background-image: url(record.png);
-}
+    padding: 1em;
+} 
