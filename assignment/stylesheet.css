@@ -3,3 +3,11 @@ header {
     color: #d0d2e0;
     text-align: center;
 }
+
+main {
+    background-color: lightgrey;
+}
+
+body {
+    background-image: url(record.png);
+}
